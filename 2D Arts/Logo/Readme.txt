@@ -1,0 +1,1 @@
+Tutaj dodajem Loga do gry ( różnego rodzaju )

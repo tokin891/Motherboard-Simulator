@@ -1,0 +1,1 @@
+Tutaj wrzucamy wszelakiego rodzaju UI, czyli np. obramki do napisów, background, teksty, itp
